@@ -20,6 +20,7 @@ I'm an undergraduate computer engineering student 💻 with a focus on Embedded 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-4B8BBE?style=for-the-badge&logo=Code&logoColor=white)
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,6 +50,7 @@ I'm an undergraduate computer engineering student 💻 with a focus on Embedded 
 ![AVR](https://img.shields.io/badge/AVR-00599C?style=for-the-badge)
 ![Tiva C](https://img.shields.io/badge/Tiva%20C-EE4C2C?style=for-the-badge)
 ![8051](https://img.shields.io/badge/8051-FF6F00?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-228B22?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -83,9 +85,10 @@ Feel free to explore my repositories and get in touch! Whether you need help wit
 - [All Popular AVR Drivers](https://github.com/AbdelrahmanAtef01/Avr-Drivers)
 - [All C Pool Answers](https://github.com/AbdelrahmanAtef01/C_pool)
 - [Full Clinical system in Assembly](https://github.com/AbdelrahmanAtef01/Clinic_management_system_assembly)
-
+<!--
 ---
 
 ## 📊 GitHub Stats
 [![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAtef01&show_icons=true&theme=radical)](https://github.com/AbdelrahmanAtef01)
 
+-->
