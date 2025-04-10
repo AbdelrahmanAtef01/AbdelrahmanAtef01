@@ -85,10 +85,8 @@ Feel free to explore my repositories and get in touch! Whether you need help wit
 - [All Popular AVR Drivers](https://github.com/AbdelrahmanAtef01/Avr-Drivers)
 - [All C Pool Answers](https://github.com/AbdelrahmanAtef01/C_pool)
 - [Full Clinical system in Assembly](https://github.com/AbdelrahmanAtef01/Clinic_management_system_assembly)
-<!--
+
 ---
 
 ## 📊 GitHub Stats
 [![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAtef01&show_icons=true&theme=radical)](https://github.com/AbdelrahmanAtef01)
-
--->
