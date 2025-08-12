@@ -1,4 +1,5 @@
-# Hi there! Abdelrahman Atef is here 👋
+# Abdelrahman Atef — AI & Computer Vision Engineer
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/abdelrahman-atef-29a448189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Website](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=airbrake&logoColor=white)](https://abdelrahmanatef01.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanatef508@gmail.com)
@@ -8,13 +9,13 @@ I’m an undergraduate Computer Engineering student specializing in Computer Vis
 Focused on creating integrated solutions, transforming data and visual inputs into actionable insights, from hardware to decisionmaking systems. My goal is to build cohesive systems that bridge hardware and data-driven applications to solve real-world
 challenges.
 
-## 🌟 About Me
-- 🎓 **Specialization**: Embedded Systems, Data Science, Computer Vision
-- 🎯 **Focus**: Building hardware solutions, transforming data into actionable insights and using visual inputs for data extraction and insights.
-- 🤩 **Passion**: Integrating hardware, data processing, and decision-making into cohesive systems.
+## About Me
+- **Specialization**: AI, Computer Vision, Embedded Systems and Data Science, with production experience in AI-driven hardware and real-time analytics.  
+- **Focus**: Designing and delivering amart, end-to-end solutions — from embedded hardware integration to computer vision pipelines visual analytics, and actionable insights.  
+- **Passion**: Bridging the gap between hardware, AI and business needs to create intelligent systems that perform reliably in real-world conditions.
+- **Mindset**: Technical depth, product vision and user focus.
 
-
-## 💻 Technologies
+## Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=white)
@@ -63,23 +64,23 @@ challenges.
 ![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📚 Currently Learning
-- Expanding knowledge in **Data Science**, **Operating Systems**, and **Natural Language Processing** 🗣
-- Gaining expertise in **Azure** ☁ and **AWS** ☁ to support my vision of integrated, end-to-end solutions.
+## Currently Learning
+I’m actively strengthening skills that directly support production-grade, real-time systems and full-stack productization:
+- **Django** — building web backends and admin tools for ML/analytics products.  
+- **Docker** & **containerization** — production deployments, reproducible pipelines and CI-friendly images.  
+- **ROS** — integrating perception and control for robotics and embedded platforms.  
+- **Linux systems** — server/edge device ops, tuning for low-latency workloads.  
+- Continued deepening of **Azure** and **AWS** for scalable inference and data pipelines.
 
-## 🚀 Let's Collaborate!
-I'm passionate about:
-- Developing **innovative hardware** and **creative accurate data driven models**
-- Exploring new ways to use data for decision-making
-- Turning creative ideas into impactful solutions
+## What I Deliver
+- **End-to-end intelligent systems** — from embedded hardware and sensor integration to cloud-deployed, real-time AI pipelines.  
+- **High-performance AI & computer vision solutions** — optimized for accuracy, low latency and scalability.  
+- **Advanced sports tech pipelines** — multi-camera tracking, event detection and data-driven performance insights.
 
-Feel free to explore my repositories and get in touch! Whether you need help with **temperature control systems** or have a vision for a **fully automated planet** 🌎 🤖, I'm here to collaborate 🚀!
+## Collaboration
+If you’re building computer vision pipelines,sports analytics, robotics or need help taking CV/ML from prototype to production, let’s talk.
 
-## 📬 Reach Out!
-- 💬 Reach out for help with any of my skills or past projects—my repos are always up-to-date and ready to help 🤝
-- 👨‍💻 Or, just connect! I'd love to hear from you.
-
-## 🛠️ My Latest Projects
+## My Latest Personal Projects
 
 - [Tactic Zone](https://github.com/AbdelrahmanAtef01/Tactic_Zone)
 - [Speaking Glove ](https://github.com/AbdelrahmanAtef01/Speaking_Glove)
@@ -89,6 +90,7 @@ Feel free to explore my repositories and get in touch! Whether you need help wit
 - [Full Clinical system in Assembly](https://github.com/AbdelrahmanAtef01/Clinic_management_system_assembly)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 [![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAtef01&show_icons=true&theme=radical)](https://github.com/AbdelrahmanAtef01)
+-->
