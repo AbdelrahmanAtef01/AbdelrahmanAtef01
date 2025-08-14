@@ -11,7 +11,7 @@ challenges.
 
 ## About Me
 - **Specialization**: AI, Computer Vision, Embedded Systems and Data Science, with production experience in AI-driven hardware and real-time analytics.  
-- **Focus**: Designing and delivering smart, end-to-end solutions — from embedded hardware integration to computer vision pipelines visual analytics, and actionable insights.  
+- **Focus**: Designing and delivering smart, end-to-end solutions — from embedded hardware integration to computer vision pipelines, visual analytics and actionable insights.  
 - **Passion**: Bridging the gap between hardware, AI and business needs to create intelligent systems that perform reliably in real-world conditions.
 - **Mindset**: Technical depth, product vision and user focus.
 
