@@ -35,6 +35,7 @@ challenges.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0A192F?style=for-the-badge&logo=mlflow&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow?style=for-the-badge&logo=roboflow&logoColor=white)
 
 ### Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-0A192F?style=for-the-badge&logo=googleanalytics&logoColor=white)
