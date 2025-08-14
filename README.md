@@ -10,7 +10,7 @@ Focused on creating integrated solutions, transforming data and visual inputs in
 challenges.
 
 ## About Me
-- **Specialization**: AI, Computer Vision, Embedded Systems and Data Science, with production experience in Sports Analytics, AI-driven hardware and real-time AI pipelines.  
+- **Specialization**: AI, Computer Vision, Embedded Systems and Data Science, with production experience in Sports Analytics, AI-driven hardware and real-time computer vision pipelines.  
 - **Focus**: Designing and delivering smart, end-to-end solutions — from embedded hardware integration to computer vision pipelines, visual analytics and actionable insights.  
 - **Passion**: Bridging the gap between hardware, AI and business needs to create intelligent systems that perform reliably in real-world conditions.
 - **Mindset**: Technical depth, product vision and user focus.
