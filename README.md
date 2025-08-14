@@ -20,6 +20,7 @@ challenges.
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-0A192F?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0A192F?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=jameson&logoColor=white)
