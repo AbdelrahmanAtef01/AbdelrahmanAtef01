@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanatef508@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-0A66C2?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eea65b80edda1a26?mp_source=share)
 
-I’m an undergraduate Computer Engineering student specializing in Computer Vision, Data Science and Embedded Systems.
+I’m a Computer Engineering graduate specializing in Computer Vision, Data Science and Embedded Systems.
 Focused on creating integrated solutions, transforming data and visual inputs into actionable insights, from hardware to decisionmaking systems. My goal is to build cohesive systems that bridge hardware and data-driven applications to solve real-world
 challenges.
 
