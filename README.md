@@ -11,9 +11,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdelrahmanatef01)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanAtef01&color=0A66C2&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -92,7 +89,7 @@ Computer Engineering fresh graduate and startup technical founder with a passion
 
 ---
 
-## Currently Learning
+## Currently Scaling My Expertise in
 I'm actively strengthening skills that directly support systems productization:
 - **Django** — building web backends and admin tools for ML/analytics products.  
 - **Docker** & **containerization** — production deployments, reproducible pipelines and CI-friendly images.  
@@ -109,7 +106,7 @@ I'm actively strengthening skills that directly support systems productization:
 ---
 
 ## Collaboration
-If you're building computer vision pipelines,sports analytics, robotics or need help taking CV/ML from prototype to production, let's talk.
+If you're building computer vision pipelines, sports analytics, robotics or need help taking CV/ML from prototype to production, let's talk.
 
 ---
 
