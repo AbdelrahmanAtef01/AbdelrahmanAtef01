@@ -15,7 +15,7 @@
 
 ---
 
-Computer Engineering fresh graduate and startup technical founder with a passion for building AI-driven products from the ground up. I thrive at the intersection of engineering and business, combining a deep background in computer vision and machine learning with the ability to architect scalable systems and lead developer teams. My focus is on transforming complex data and computer vision into scalable, cohesive systems that solve actual user problems, with a strong emphasis on sports tech, intelligent workflows and bringing new platforms to market.
+Startup technical founder and computer Engineering fresh graduate with a passion for building AI-driven products from the ground up. I thrive at the intersection of engineering and business, combining a deep background in computer vision and machine learning with the ability to architect scalable systems and lead developer teams. My focus is on transforming complex data and computer vision into scalable, cohesive systems that solve actual user problems, with a strong emphasis on sports tech, intelligent workflows and bringing new platforms to market.
 
 <h2 align="center">About Me</h2>
 
