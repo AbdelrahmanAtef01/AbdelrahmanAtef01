@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-atef-29a448189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://abdelrahmanatef01.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/abdelrahman-atef-29a448189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=airbrake&logoColor=white)](https://abdelrahmanatef01.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdelrahmanatef508@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eea65b80edda1a26?mp_source=share)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdelrahmanatef01)
@@ -14,10 +14,9 @@
 </div>
 
 ---
+<h2 align="center">About Me</h2>
 
 Startup technical founder and computer Engineering fresh graduate with a passion for building AI-driven products from the ground up. I thrive at the intersection of engineering and business, combining a deep background in computer vision and machine learning with the ability to architect scalable systems and lead developer teams. My focus is on transforming complex data and computer vision into scalable, cohesive systems that solve actual user problems, with a strong emphasis on sports tech, intelligent workflows and bringing new platforms to market.
-
-<h2 align="center">About Me</h2>
 
 - **Specialization**: AI, Computer Vision, Embedded Systems and Data Science, with production experience in Sports Analytics, AI-driven hardware and real-time computer vision pipelines.  
 - **Focus**: Architecting and deploying smart solutions — from computer vision pipelines, hardware systems and visual analytics to multimodal RAG and multi-agent workflows.  
@@ -36,7 +35,7 @@ Startup technical founder and computer Engineering fresh graduate with a passion
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=javascript&logoColor=white)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-525252?style=flat&logo=misskey&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlalchemy&logoColor=white)
 
@@ -78,7 +77,7 @@ Startup technical founder and computer Engineering fresh graduate with a passion
 
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=googleanalytics&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
@@ -115,8 +114,8 @@ Startup technical founder and computer Engineering fresh graduate with a passion
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=icloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=icloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
